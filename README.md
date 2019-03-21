@@ -1,6 +1,6 @@
 # Mapping
 
-Pieza para videomapping realizada en Unity, usando código para configurar y animar una escena. Hace parte de un proyecto donde los estudiantes del curso Entretenimiento Digital, Espacios, Mapping y VJ, realizó cada uno una pieza usando diferentes tecnologías, generalmente solo animación ya fuera en 3D o 2D.
+Pieza para videomapping realizada en Unity, usando código para configurar y animar una escena. Hace parte de un proyecto donde los estudiantes del curso Entretenimiento Digital, Espacios, Mapping y VJ del pregrado Comunicación y Entretenimiento Digital de la UdeM, realizó cada uno una pieza usando diferentes tecnologías, generalmente solo animación ya fuera en 3D o 2D. También se usaron sonidos sintetizados con PureData para el curso de Audio  Música, Efectos y Sonido 3D.
 
 [Ver en YouTube esta pieza realizada en Unity, con sonido añadido](https://youtu.be/gxjTIS4JW4c)
 
